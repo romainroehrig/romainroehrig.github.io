@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: bay_jekyll_theme
 plugins:
   - jekyll-feed
 
@@ -42,14 +42,32 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: Blog
+    - name: Whatever
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: romain.roehrig AT meteo.fr
+      link: romain.roehrig@meteo.fr
+  follow:
+    - name: Github
+      link: http://github.com/romainroehrig
+
