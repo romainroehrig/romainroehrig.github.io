@@ -17,13 +17,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+#
+# bundle install
+# bundle exec jekyll serve
+#
+#
 
-title: Your awesome title
+title: Romain Roehrig
 email: romain.roehrig AT meteo.fr
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://romainroehrig.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -57,8 +59,10 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
+    - name: Projects
     - name: Publications
+    - name: Teaching
+    - name: About
 
 footer:
   show_powered_by: true
@@ -67,6 +71,8 @@ footer:
       value: romain.roehrig AT meteo.fr
       link: romain.roehrig@meteo.fr
   follow:
-    - name: Github
+    - name: GitHub
       link: http://github.com/romainroehrig
+    - name: ORCID
+      link: https://orcid.org/0000-0002-3903-3841
 
