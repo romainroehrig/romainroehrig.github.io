@@ -33,3 +33,6 @@ $on-laptop: 800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base", "layout", "site", "work", "blog", "post", "404";
+
+@import "{{ site.theme }}";
+.site-title {font-size: 40px;}

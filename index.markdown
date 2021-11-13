@@ -7,4 +7,5 @@ layout: home
 
 <p>
   Welcome!
+  Website in development
 </p>
