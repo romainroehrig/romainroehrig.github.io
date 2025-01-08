@@ -65,7 +65,7 @@ header:
     - name: About
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - name: Email
       value: romain.roehrig AT meteo.fr
@@ -75,6 +75,6 @@ footer:
       link: http://github.com/romainroehrig
     - name: ORCID
       link: https://orcid.org/0000-0002-3903-3841
-    - name: GoogleScholar
+    - name: Google Scholar
       link: https://scholar.google.com/citations?user=hX0LUeEAAAAJ&hl=fr
 
