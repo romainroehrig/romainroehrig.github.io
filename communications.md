@@ -4,6 +4,11 @@ title: Communications
 permalink: /Communications/
 ---
 
+# Content of this page
+
+- [Talks presented at conferences and workshops](#talks-presented-at-conferences-and-workshops)
+- [Posters presented at conferences and workshops](#posters-presented-at-conferences-and-workshops)
+
 ## Talks presented at conferences and workshops
 
 # 2024
@@ -158,6 +163,8 @@ Roehrig R., F. Chauvin and J.-P. Lafore, 2008 : Intraseaonal variability of the 
 
 Roehrig R., J.-Y. Grandpeix and J.-P. Lafore, 2008 : Coupling between density currents and deep convection over West Africa as simulated by the LMDZ4 GCM. *2nd International AMMA conference*, 26-30 November 2007, Karlsruhe, Germany. [PDF]()
 
+[*Back to top*](#content-of-this-page)
+
 ## Posters presented at conferences and workshops
 
 # 2024
@@ -219,3 +226,5 @@ Roehrig R., J.-Y. Grandpeix and J.-P. Lafore, 2008: Coupling between density cur
 # 2007
 
 **Roehrig, R.**, J.-Y. Grandpeix and J.-P. Lafore, 2007: Implementation of a density current parameterization in the LMDZ4 GCM. *EGU General Assembly 2007*, 15-20 April 2007, Vienna, Austria. [PDF]()
+
+[*Back to top*](#content-of-this-page)

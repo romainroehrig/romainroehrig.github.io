@@ -17,6 +17,13 @@ For publication metrics, see:
 Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes.fr/index.php/s/DfycDwGsbqobW92). Bibtex references can be obtained with [doi2bib](https://www.doi2bib.org/).
 -->
 
+# Content of this page
+
+- [Submitted papers and papers in revision](#submitted-papers-and-papers-in-revision)
+- [Peer-reviewed publications](#peer-reviewed-publications)
+- [Book chapters and other publications](#book-chapters-and-other-publications)
+- [Academic dissertations](#academic-dissertations)
+
 ## Submitted papers and papers in revision
 <!--XX. Submitted to the *YY*, preprint on ??(https://arxiv.org/abs/).-->
 
@@ -207,6 +214,7 @@ Janicot, S., G. Caniaux, F. Chauvin, G. de Coëtlogon, B. Fontaine, N. Hall, G. 
 <!-- 2010 -->
 Chauvin, F., **R. Roehrig**, and J.-P. Lafore, 2010: Intraseasonal variability of the Saharan Heat Low and its link with mid-latitudes. *Journal of Climate*, 23, 2544-2561, doi:[10.1175/2010JCLI3093.1](https://doi.org/10.1175/2010JCLI3093.1).
 
+[*Back to top*](#content-of-this-page)
 <!--
 ## Conference papers 
 1. XX (2023). YY. ZZ
@@ -241,6 +249,10 @@ Vischel, T., G. Panthou, P. Peyrillé, **R. Roehrig**, G. Quantin, T. Lebel, C. 
 <!-- 2012 -->
 Lafore, J.-P., N. Asencio, D. Bouniol, F. Couvreux, C. Flamat, F. Guichard, N. Hall, S. Janicot, C. Kocha, C. Lavaysse, S. Leroux, E. Poan, P. Peyrillé, R. Roca, **R. Roehrig**, F. Roux and F. Saïd, 2012: Evolution de notre compréhension du système de mousson ouest-africain. *La Météorologie*, 8e série, Spécial AMMA, 11-16.
 
+[*Back to top*](#content-of-this-page)
+
 ## Academic dissertations
 
 **Roehrig, R.**, 2010: Variabilité intrasaisonnière de la mousson africaine : caractérisation et modélisation. Université Paris-Est. In French. [[PDF](https://theses.hal.science/tel-00560954)] 
+
+[*Back to top*](#content-of-this-page)
