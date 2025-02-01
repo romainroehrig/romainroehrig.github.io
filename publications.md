@@ -6,7 +6,7 @@ permalink: /publications/
 
 <a href="https://orcid.org/0000-0002-3903-3841" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-3903-3841</a>
 
-<a href="https://hal.science/search/index/?qa%5BauthIdHal_s%5D%5B%5D=roehrig&rows=100&sort=publicationDate_tdate+desc"><img src="{{site.baseurl}}/img/HAL.png" width="10%"> idHAL: roehrig</a>
+<a href="https://cv.archives-ouvertes.fr/roehrig"><img src="{{site.baseurl}}/img/HAL.png" width="10%"> idHAL: roehrig</a>
 
 For publication metrics, see:
 [google scholar](https://scholar.google.com/citations?user=hX0LUeEAAAAJ&hl=en)
