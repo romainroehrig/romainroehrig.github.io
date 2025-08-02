@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Communications
-permalink: /Communications/
+permalink: /communications/
 ---
 
 # Content of this page
