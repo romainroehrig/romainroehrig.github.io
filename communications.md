@@ -16,7 +16,7 @@ permalink: /Communications/
 Lothon, M., F. Lohou, **R. Roehrig**, et al. 2025: Measured and Simulated Turbulent Flux Over Heterogeneous Landscapes: The Model and Observation for Surface Atmosphere Interactions (MOSAI) Project.  [*ICAMS*](https://www.icams-portal.gov/) *Physics Interoperability Implementation Team* ([*PIIT*](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/451892)) *monthly seminar*, 21 February 2025, online. [Invited presentation](https://sdrive.cnrs.fr/s/7qXXmJnB6g2KDwB)
 
 # 2024
-Roehrig, R., et al. 2024: Research and operations updates at Météo-France. [*39th annual meeting of the WGNE*](https://www.wcrp-esmo.org/events/wgne39-wgsip25-annual-meetings), 4-8 November 2024, Toulouse, France. [[PDF](https://sdrive.cnrs.fr/s/NpZBGy2bdF34w6c)]
+**Roehrig, R.**, et al. 2024: Research and operations updates at Météo-France. [*39th annual meeting of the WGNE*](https://www.wcrp-esmo.org/events/wgne39-wgsip25-annual-meetings), 4-8 November 2024, Toulouse, France. [[PDF](https://sdrive.cnrs.fr/s/NpZBGy2bdF34w6c)]
 
 Lothon, M., F. Lohou, **R. Roehrig**, et al. 2024: MOSAI: Measure and simulate turbulent fluxes over heterogeneous landscapes. [*GEWEX Open Science Conference*](https://www.gewexevents.org/meetings/gewex-osc2024/), 8-12 July 2024, Sapporo, Japan. [[PDF](https://sdrive.cnrs.fr/s/s5sg4PeHnfqGeKa)]
 
