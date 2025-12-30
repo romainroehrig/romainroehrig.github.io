@@ -29,16 +29,30 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 ## Submitted papers and papers in revision
 <!--XX. Submitted to the *YY*, preprint on ??(https://arxiv.org/abs/).-->
 
-Xu, W., D. Williamson, F. Hourdin and **R. Roehrig**: Feature calibration for computer models. Submitted to *Journal of the American Statistical Association*, preprint on arXiv:[2310.18875](https://arxiv.org/abs/2310.18875)
+Groot, E., H. Christensen, X. Sun, K. Newman, W. Lfarh, **R. Roehrig**, L. Bengtsson and J. Simonson: How different are deterministic physics suites when coupled to fixed model dynamics and why? Submitted to *Journal of the European Meteorological Society*.
 
-Douville, H., **R. Roehrig** and P. Nabat: Contribution of large-scale atmospheric circulation and anthropogenic aerosols to recent summer warming over western Europe. Submitted to *Climate Dynamics*.
+Chauvin, E., D. Bouniol, **R. Roehrig**, C. Rio and L. Auger: Mesoscale convective systems in a global km-scale model: evaluation and impact on model mean state. Submitted to *Journal of Climate*.
 
 **Roehrig, R.** and P. Peyrillé: Subseasonal-to-seasonal variability in the tropics. In *Atmospheric Dynamics Encyclopedia, Book C*. Eds. C. Muller, R. Plougonven and G. Rivière.
 
-Lohou, F., M. Lothon, S. Bastin, A. Brut, G. Canut, J.-M. Cohard, F. Cheruy, F. Couvreux, S. Dupont, S. Lafont, **R. Roehrig**, E. Bernard, A. Boone, J.-C. Dupont, A. Feofilov, R. Fernandes, M. Grulois, M. Jome, A. Maison, C. Roman-Cascon, C. Yague and M. P. N. Zouzoua: Model and observation for surface-atmosphere interactions over heterogenous landscape. Submitted to *Journal of the European Meteorological Society*.
+Lothon, M., F. Lohou, J. Arrivé, H. Barral, J. Barrié, S. Bastin, E. Bazile, E. Bernard, Y. Bezombes, A. Brut, G. Canut, C. Ciais, J. Capo, F. Cheruy, J.-M. Cohard, C. Coulaud, J. Couzinier, F. Couvreux, J. Darrozes, S. Derrien, S. Dupont, J.-B. Estrampes, J.-C. Etienne, P. Fanise, O. Garrouste, M. Ghirardelli, F. Granouillac, M. Grulois, M. Irvine, J. A. Jimenez-Rincon, M. Jomé, S. T. Kral, S. Lafont, B. Mercier, P. Orthiz, A. Philibert, E. Pique, J. Reuder, C. Roman-Cascon, **R. Roehrig**, M. Sastre, A. Seeling, Y. Seity, F. Starck, P. Tiengou, C. Vegas-Canas, A. Vial, C. Yagüe, M. Zouzoua, G. Ramillien and L. Menjot: Documenting the role of surface heterogeneities on the atmosphere surface layer at different spatio-temporal scales. Submitted to *Journal of the European Meteorological Society*. 
+
+Bossert, I., S. Baur, M. Cussac, S. Berthet, M. Michou, P. Nabat, **R. Roehrig**, A. Voldoire, R. Séférian: CNRM-ESM2-2: development and evaluation of an updated version of the CNRM-CERFACS Earth System Model. Submitted to *Journal of Advances in Modeling Earth Systems*. doi:[10.22541/essoar.175977424.42948487/v1](https://doi.org/10.22541/essoar.175977424.42948487/v1).
 
 ## Peer-reviewed publications
-<!--XX (2024). YY. *ZZ*. doi:[doi](https://doi.org/) -->
+<!--XX (2024). YY. *ZZ*. doi:[doi](https://doi.org/). [[HAL]]() -->
+
+<!-- 2025 -->
+# 2025
+
+Lohou, F., M. Lothon, S. Bastin, A. Brut, G. Canut, J.-M. Cohard, F. Cheruy, F. Couvreux, S. Dupont, S. Lafont, **R. Roehrig**, E. Bernard, A. Boone, J.-C. Dupont, A. Feofilov, R. Fernandes, M. Grulois, M. Jome, A. Maison, C. Roman-Cascon, C. Yague and M. P. N. Zouzoua, 2025: Model and observation for surface-atmosphere interactions over heterogenous landscape. *Journal of the European Meteorological Society*, 3, 100019. doi:[10.1016/j.jemets.2025.100019](https://doi.org/10.1016/j.jemets.2025.100019). [[HAL]](https://hal.science/hal-05269664v1)
+
+Bernard, E., **R. Roehrig**, F. Couvreux, G. Canut, C. Delire, F. Lohou, M. Lothon and B. Decharme, 2025: Process-level evaluation of the land-atmosphere interactions within CNRM-CM6-1 single-column model configuration. *Journal of Advances in Modeling Earth Systems* 17(11), e2025MS005090. doi:[10.1029/2025MS005090](https://doi.org/10.1029/2025MS005090). [[HAL]](https://hal.science/hal-05370480v1)
+
+Xu, W., D. Williamson, F. Hourdin and **R. Roehrig**, 2025: Feature calibration for computer models. *SIAM/ASA Journal on Uncertainty Quantification*, 13. doi:[10.1137/24M163253X](https://doi.org/10.1137/24M163253X). [[arXiv]](https://arxiv.org/abs/2310.18875) [[HAL]]()
+
+Douville, H., **R. Roehrig** and P. Nabat, 2025: Contribution of large-scale atmospheric circulation and anthropogenic aerosols to recent summer warming over western Europe. *Climate Dynamics*, 63, 208. doi:[10.1007/s00382-025-07689-6](https://doi.org/10.1007/s00382-025-07689-6). [[HAL]]()
+
 
 <!-- 2024 -->
 # 2024

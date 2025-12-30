@@ -14,13 +14,17 @@ I am an **atmospheric physicist** working on Earth system modelling at the Centr
 
 <br>
 
+**Note that this website is still under construction**
+
+<br>
+
 <!--
 ## Interested in working with me ? 
 Research appointments will be **considered at any time** for candidates with an outstanding profile. A number of schemes are available for funding **PhD** or **postdoctoral positions**. Interested applicants should contact me by email. 
 -->
 
 ## Recent posts
-{% for post in site.posts limit:2%}
+{% for post in site.posts limit:5%}
    - {{ post.date | date_to_string }} » [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
 

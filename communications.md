@@ -13,7 +13,16 @@ permalink: /communications/
 
 # 2025
 
+Daval, J., **R. Roehrig** and Q. Libois, 2025: Towards a surface spectral emissivity in ARPEGE-Climat. Atelier FORUM, 26-28 novembre 2025, Toulouse, France. [[PDF]](https://sdrive.cnrs.fr/s/CdzGy2aqoqSMAJ2)
+
+**Roehrig, R.**, et al. 2025: Research and operations updates at Météo-France. [*40th annual meeting of the WGNE*](https://www.wcrp-esmo.org/calendar/wgne40-annual-meeting), 3-7 November 2025, Beijing, China. [[PDF]](https://sdrive.cnrs.fr/s/iaCRxk9HBS6HWmt)
+
+**Roehrig, R.**, et al. 2025: MOSAI – WP3 – Improvement of the land-atmosphere coupling. *2025* [*MOSAI*](https://mosai.aeris-data.fr) *Annual Workshop*, 1-3 July 2025, Bordeaux, France. [[PDF]](https://sdrive.cnrs.fr/s/kdb2zY2m9H4YSZR)
+
 Lothon, M., F. Lohou, **R. Roehrig**, et al. 2025: Measured and Simulated Turbulent Flux Over Heterogeneous Landscapes: The Model and Observation for Surface Atmosphere Interactions (MOSAI) Project.  [*ICAMS*](https://www.icams-portal.gov/) *Physics Interoperability Implementation Team* ([*PIIT*](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/451892)) *monthly seminar*, 21 February 2025, online. [Invited presentation](https://sdrive.cnrs.fr/s/7qXXmJnB6g2KDwB)
+
+**Roehrig, R.**, M. Vancoppenolle, N. Jourdain, et al., 2025: IMPRESSION-ESM: Improving the physical process representation in Earth system models. *Assemblée Générale du projet IMPRESSION-ESM*, 6-7 février 2025, Grenoble, France. [[PDF]](https://sdrive.cnrs.fr/s/eecwygZPj34RzFT)
+
 
 # 2024
 **Roehrig, R.**, et al. 2024: Research and operations updates at Météo-France. [*39th annual meeting of the WGNE*](https://www.wcrp-esmo.org/events/wgne39-wgsip25-annual-meetings), 4-8 November 2024, Toulouse, France. [[PDF](https://sdrive.cnrs.fr/s/NpZBGy2bdF34w6c)]
@@ -24,7 +33,7 @@ Lothon, M., F. Lohou, **R. Roehrig**, et al. 2024: MOSAI: Measure and simulate t
 
 **Roehrig, R.**, 2024: Quelques experiences de tuning avec ARPEGE-Climat. *Réunion de lancement des projets QUINTET et IMPRESSION-ESM*, 3-5 April 2024, Toulouse, France. [[PDF](https://sdrive.cnrs.fr/s/noRFxayqWHFjLY9)]
 
-**Roehrig, R.**, M. Vancoppenolle, N. Jourdain, et al., 2024: IMPRESSION-ESM: Improving the physical process representation in Earth system models. *Réunion de lancement des projets QUINTET et IMPRESSION-ESM*, 3-5 April 2024, Toulouse, France. [[PDF](https://sdrive.cnrs.fr/s/yA33Zg528Dd9AcR)]
+**Roehrig, R.**, M. Vancoppenolle, N. Jourdain, et al., 2024: IMPRESSION-ESM: Improving the physical process representation in Earth system models. *Réunion de lancement des projets QUINTET et IMPRESSION-ESM*, 3-5 April 2024, Toulouse, France. [[PDF]](https://sdrive.cnrs.fr/s/yA33Zg528Dd9AcR)
 
 # 2023
 Chauvin, E., **R. Roehrig**, D. Bouniol, C. Rio, T. Fiolleau, R. Roca and L. Auger, 2023: Tropical convective systems in the CNRM global km-scale model. *38th annual meeting of the WGNE*, 27 November–1 December 2023, São José dos Campos, Brazil. [[PDF]()]
