@@ -31,7 +31,7 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 
 Groot, E., H. Christensen, X. Sun, K. Newman, W. Lfarh, **R. Roehrig**, L. Bengtsson and J. Simonson: How different are deterministic physics suites when coupled to fixed model dynamics and why? Submitted to *Journal of the European Meteorological Society*.
 
-Leonarski, L., **R. Roehrig**, S. Della Fera and Q. Libois: Evaluation of the infrared spectral signature of CNRM-CM6-1 in clear-sky conditions using IASI observations. Submitted to *Journal of Geophysical Research: Atmospheres*.
+Leonarski, L., **R. Roehrig**, S. Della Fera and Q. Libois: Evaluation of the infrared spectral signature of CNRM-CM6-1 in clear-sky conditions using IASI observations. Submitted to *Journal of Geophysical Research: Atmospheres*. doi:[10.22541/essoar.176384797.72521084/v1](https://doi.org/10.22541/essoar.176384797.72521084/v1).
 
 Chauvin, E., D. Bouniol, **R. Roehrig**, C. Rio and L. Auger: Mesoscale convective systems in a global km-scale model: evaluation and impact on model mean state. Submitted to *Journal of Climate*.
 
