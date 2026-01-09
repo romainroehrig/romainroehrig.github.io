@@ -51,9 +51,9 @@ Lohou, F., M. Lothon, S. Bastin, A. Brut, G. Canut, J.-M. Cohard, F. Cheruy, F. 
 
 Bernard, E., **R. Roehrig**, F. Couvreux, G. Canut, C. Delire, F. Lohou, M. Lothon and B. Decharme, 2025: Process-level evaluation of the land-atmosphere interactions within CNRM-CM6-1 single-column model configuration. *Journal of Advances in Modeling Earth Systems* 17(11), e2025MS005090. doi:[10.1029/2025MS005090](https://doi.org/10.1029/2025MS005090). [[HAL]](https://hal.science/hal-05370480v1)
 
-Xu, W., D. Williamson, F. Hourdin and **R. Roehrig**, 2025: Feature calibration for computer models. *SIAM/ASA Journal on Uncertainty Quantification*, 13(2), 591-612. doi:[10.1137/24M163253X](https://doi.org/10.1137/24M163253X). [[arXiv]](https://arxiv.org/abs/2310.18875) [[HAL]]()
+Xu, W., D. Williamson, F. Hourdin and **R. Roehrig**, 2025: Feature calibration for computer models. *SIAM/ASA Journal on Uncertainty Quantification*, 13(2), 591-612. doi:[10.1137/24M163253X](https://doi.org/10.1137/24M163253X). [[arXiv]](https://arxiv.org/abs/2310.18875) [[HAL]](https://hal.science/hal-05435357)
 
-Douville, H., **R. Roehrig** and P. Nabat, 2025: Contribution of large-scale atmospheric circulation and anthropogenic aerosols to recent summer warming over western Europe. *Climate Dynamics*, 63, 208. doi:[10.1007/s00382-025-07689-6](https://doi.org/10.1007/s00382-025-07689-6). [[HAL]]()
+Douville, H., **R. Roehrig** and P. Nabat, 2025: Contribution of large-scale atmospheric circulation and anthropogenic aerosols to recent summer warming over western Europe. *Climate Dynamics*, 63, 208. doi:[10.1007/s00382-025-07689-6](https://doi.org/10.1007/s00382-025-07689-6). [[HAL]](https://hal.science/hal-05435369v1)
 
 
 <!-- 2024 -->
