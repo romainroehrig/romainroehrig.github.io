@@ -255,7 +255,7 @@ Lafore, J.-P., P. Peyrillé, **R. Roehrig** and F. Beucher, 2021: An overview of
 
 # 2017
 <!-- 2017 -->
-Lafore, J-P., N. Chapelon, M. Diop-Kane, B. Gueye, Y. Largeron, S. Lepape, O. Ndiaye, D.J. Parker, E. Poan, R. Roca, **R. Roehrig** and C. Taylor, 2017: Deep Convection, in *Meteorology of Tropical West Africa: The Forecasters’ Handbook*. Eds D. J. Parker and M. Diop-Kane, John Wiley & Sons, Ltd, Chichester, UK. doi:doi:[10.1002/9781118391297.ch3](https://doi.org/10.1002/9781118391297.ch3).
+Lafore, J-P., N. Chapelon, M. Diop-Kane, B. Gueye, Y. Largeron, S. Lepape, O. Ndiaye, D.J. Parker, E. Poan, R. Roca, **R. Roehrig** and C. Taylor, 2017: Deep Convection, in *Meteorology of Tropical West Africa: The Forecasters’ Handbook*. Eds D. J. Parker and M. Diop-Kane, John Wiley & Sons, Ltd, Chichester, UK. doi:[10.1002/9781118391297.ch3](https://doi.org/10.1002/9781118391297.ch3).
  
 Vischel, T., G. Panthou, P. Peyrillé, **R. Roehrig**, G. Quantin, T. Lebel, C. Wilcox, F. Beucher, M. Budiarti, 2017 : Precipitation extremes in the West African Sahel : recent evolution and physical mechanisms, in *Tropical Extremes : Natural Variability and Trends*, Eds V. Vuruputur, J. Sukhatme, R. Murtugudde and R. Roca, Elsevier, Amsterdam. [[HAL](https://hal.science/hal-04823168v1)]
  
@@ -272,6 +272,6 @@ Lafore, J.-P., N. Asencio, D. Bouniol, F. Couvreux, C. Flamat, F. Guichard, N. H
 
 ## Academic dissertations
 
-**Roehrig, R.**, 2010: Variabilité intrasaisonnière de la mousson africaine : caractérisation et modélisation. Université Paris-Est. In French. [[PDF](https://theses.hal.science/tel-00560954)]
+**Roehrig, R.**, 2010: Variabilité intrasaisonnière de la mousson africaine : caractérisation et modélisation. Université Paris-Est. In French. doi:[10.70675/48942694zf34dz4fc0zb4acz7e65722f2789](https://doi.org/10.70675/48942694zf34dz4fc0zb4acz7e65722f2789) [[PDF](https://theses.hal.science/tel-00560954)]
 
 [*Back to top*](#content-of-this-page)
