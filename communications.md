@@ -40,12 +40,12 @@ Chauvin, E., **R. Roehrig**, D. Bouniol, C. Rio, T. Fiolleau, R. Roca and L. Aug
 
 **Roehrig, R.**, 2023: Modélisation de l’atmosphère globale : quelques réflexions sur les (r)évolutions récentes et celles à venir.  *2e journées de la convection profonde*, 15-17 November 2023, Avignon, France. [PDF]()
 
-**Roehrig, R.**, 2023: Addressing the calibration bottleneck using machine learning: Application to the CNRM-CM6-1 climate model. *Workshop on AI for Ocean, Atmosphere and Climate Dynamics*, 11–13 April 2023, Brest, France. [PDF]()
+**Roehrig, R.**, 2023: Addressing the calibration bottleneck using machine learning: Application to the CNRM-CM6-1 climate model. *Workshop on AI for Ocean, Atmosphere and Climate Dynamics*, 11–13 April 2023, Brest, France. [PDF](https://sdrive.cnrs.fr/s/t7YCrGopFgtWsGr)
 
 **Roehrig, R.**, M. Vancoppenolle, N. Jourdain, et al., 2023: TRACCS-PC7: Improving the physical process representation in Earth system models. *TRACCS Kick-Off meeting*, 29–30 March 2023, Paris, France. [PDF]()
 
 # 2022
-**Roehrig, R.**, 2022: Addressing the calibration bottleneck using machine learning: application to the CNRM-CM6-1 model. *6th WGNE Workshop on Systematic Errors in Weather and Climate Models*, 31 October–4 November 2022, Reading, UK. [PDF]()
+**Roehrig, R.**, 2022: Addressing the calibration bottleneck using machine learning: application to the CNRM-CM6-1 model. *6th WGNE Workshop on Systematic Errors in Weather and Climate Models*, 31 October–4 November 2022, Reading, UK. [PDF](https://sdrive.cnrs.fr/s/deiwyiDsX2dtLsS)
 
 **Roehrig, R.**, E. Chauvin, L. Leonarski and Q. Libois, 2022: Sensibilité des simulatiosn climatiques aux propriétés radiatives des nuages de glace dans l’infrarouge. *Atelier annuel du projet FORUM*, 19–21 October 2022, Lille, France. [PDF]()
 
