@@ -29,11 +29,15 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 ## Submitted papers and papers in revision
 <!--XX. Submitted to the *YY*, preprint on ??(https://arxiv.org/abs/).-->
 
-Groot, E., H. Christensen, X. Sun, K. Newman, W. Lfarh, **R. Roehrig**, L. Bengtsson and J. Simonson: How different are deterministic physics suites when coupled to fixed model dynamics and why? Submitted to *Journal of the European Meteorological Society*.
+Séguy, R., A. Voldoire, **R. Roehrig**: Sensitivity of the climate system historical response to the piControl simulation level of equilibrium in CNRM-CM6-1. Submitted to *Journal of Climate*.
 
-Leonarski, L., **R. Roehrig**, S. Della Fera and Q. Libois: Evaluation of the infrared spectral signature of CNRM-CM6-1 in clear-sky conditions using IASI observations. Submitted to *Journal of Geophysical Research: Atmospheres*. doi:[10.22541/essoar.176384797.72521084/v1](https://doi.org/10.22541/essoar.176384797.72521084/v1).
+Lothon, M., F. Lohou, J. Arrivé, H. Barral, J. Barrié, S. Bastin, E. Bazile, E. Bernard, Y. Bezombes, A. Brut, G. Canut, C. Ciais, J. Capo, F. Cheruy, J.-M. Cohard, C. Coulaud, J. Couzinier, F. Couvreux, J. Darrozes, S. Derrien, S. Dupont, J.-B. Estrampes, J.-C. Etienne, P. Fanise, O. Garrouste, M. Ghirardelli, F. Granouillac, M. Grulois, M. Irvine, J. A. Jimenez-Rincon, M. Jomé, S. T. Kral, S. Lafont, B. Mercier, P. Orthiz, A. Philibert, E. Pique, J. Reuder, C. Roman-Cascon, **R. Roehrig**, M. Sastre, A. Seeling, Y. Seity, F. Starck, P. Tiengou, C. Vegas-Canas, A. Vial, C. Yagüe, M. Zouzoua, G. Ramillien and L. Menjot: Documenting the role of surface heterogeneities on the atmosphere surface layer at different spatio-temporal scales. Submitted to *Journal of the European Meteorological Society*.
 
-Chauvin, E., D. Bouniol, **R. Roehrig**, C. Rio and L. Auger: Mesoscale convective systems in a global km-scale model: evaluation and impact on model mean state. Submitted to *Journal of Climate*.
+O'Donnell, G., A. A. Wing, L. G. Silvers, K. A. Reed, P. A. Bogenschutz, J.-P. Chaboureau, G. Dagan, B. Gasparini, W. M. Hannah, K. Hashimoto, P. G. Hill, G. Leung, S. Matsugishi, S. Ortega, **R. Roehrig**, D. M. Romps, J. Shpund, A. B. Sokol, L. Tomassini, S. C. van den Heever and C.-M. Wu: Characteristics of a Multi-model Ensemble of Mock-Walker Simulations. Submitted to *Journal of Advances in Modeling Earth Systems*.
+
+Groot, E. H. Christensen, X. Sun, K. Newman, W. Lfarh, **R. Roehrig**, L. Bengtsson, J. Simonson, K. Williams, H. Lambert: Spin-up in humidity and temperature and its consequences for convective diagnostics: a Model Uncertainty Model Intercomparison Project experiment. Submitted to *Geoscientific Model Development*. [preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1445/)
+
+Groot, E., H. Christensen, X. Sun, K. Newman, W. Lfarh, **R. Roehrig**, J. Berner, and J. Simonson: Isolating between sensitivity arising from surface forcing and model physics uncertainty. Submitted to *Geoscientific Model Development*
 
 **Roehrig, R.** and P. Peyrillé: Subseasonal-to-seasonal variability in the tropics. In *Atmospheric Dynamics Encyclopedia, Book C*. Eds. C. Muller, R. Plougonven and G. Rivière.
 
@@ -43,6 +47,15 @@ Bossert, I., S. Baur, M. Cussac, S. Berthet, M. Michou, P. Nabat, **R. Roehrig**
 
 ## Peer-reviewed publications
 <!--XX (2024). YY. *ZZ*. doi:[doi](https://doi.org/). [[HAL]]() -->
+
+<!-- 2026 -->
+# 2026
+
+Leonarski, L., **R. Roehrig**, S. Della Fera and Q. Libois: Evaluation of the infrared spectral signature of CNRM-CM6-1 in clear-sky conditions using IASI observations. Accepted for *Journal of Geophysical Research: Atmospheres*. [preprint]()
+
+Chauvin, E., D. Bouniol, **R. Roehrig**, C. Rio and L. Auger, 2026: Mesoscale convective systems in a global km-scale model: evaluation and impact on model mean state. Accepted for *Journal of Climate*.
+
+Groot, E., H. Christensen, X. Sun, K. Newman, W. Lfarh, **R. Roehrig**, L. Bengtsson and J. Simonson, 2026: How different are deterministic physics suites when coupled to fixed model dynamics and why? *Journal of the European Meteorological Society*, **5**, 100041. doi: [10.1016/j.jemets.2026.100041](https://doi.org/10.1016/j.jemets.2026.100041)
 
 <!-- 2025 -->
 # 2025

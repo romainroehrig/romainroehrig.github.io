@@ -11,9 +11,17 @@ permalink: /communications/
 
 ## Talks presented at conferences and workshops
 
+# 2026
+
+**Roehrig, R.**, et al., 2026: (Deep) Convection parameterization in climate models: A few perspective. [*Journées Annuelles 2026 du GdR Défis Théoriques pour les Sciences du Climat*](https://gdr-climat2026.sciencesconf.org/), 27-29 mai 2026, Paris, France. [Invited talk](https://sdrive.cnrs.fr/s/Ct5weMsk4jkFZop)
+
+**Roehrig, R.**, 2026: Quelques nouvelles d'ARPEGE-Climat. [*Assemblée Générale 2026 TRACCS-PC7 IMPRESSION-ESM*](https://traccs-pc7-impression-esm.github.io/2026/05/06/GA2026/), 5-6 mai 2026, Paris. [[PDF](https://sdrive.cnrs.fr/s/oNSqzAAWLwkPsT4)]
+
+**Roehrig, R.**, 2026: HTexplo au CNRM. *Atelier du TRACCS-PC6 QUINTET*, 2 février 2026, Paris, France. [[PDF](https://sdrive.cnrs.fr/s/GwpfmDdN7NaEtsm)]
+
 # 2025
 
-Daval, J., **R. Roehrig** and Q. Libois, 2025: Towards a surface spectral emissivity in ARPEGE-Climat. Atelier FORUM, 26-28 novembre 2025, Toulouse, France. [[PDF](https://sdrive.cnrs.fr/s/CdzGy2aqoqSMAJ2)]
+Daval, J., **R. Roehrig** and Q. Libois, 2025: Towards a surface spectral emissivity in ARPEGE-Climat. *Atelier FORUM*, 26-28 novembre 2025, Toulouse, France. [[PDF](https://sdrive.cnrs.fr/s/CdzGy2aqoqSMAJ2)]
 
 **Roehrig, R.**, et al. 2025: Research and operations updates at Météo-France. [*40th annual meeting of the WGNE*](https://www.wcrp-esmo.org/calendar/wgne40-annual-meeting), 3-7 November 2025, Beijing, China. [[PDF](https://sdrive.cnrs.fr/s/iaCRxk9HBS6HWmt)]
 
