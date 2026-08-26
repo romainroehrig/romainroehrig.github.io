@@ -53,7 +53,7 @@ O'Donnell, G., A. A. Wing, L. G. Silvers, K. A. Reed, P. A. Bogenschutz, J.-P. C
 
 Leonarski, L., **R. Roehrig**, S. Della Fera and Q. Libois: Evaluation of the infrared spectral signature of ARPEGE-Climat 6.3 in clear-sky conditions using IASI observations. *Journal of Geophysical Research: Atmospheres*, **131**, e2025JD045730. doi: [10.1029/2025JD045730](https://doi.org/10.1029/2025JD045730). [HAL](https://hal.science/hal-05703347)
 
-Chauvin, E., D. Bouniol, **R. Roehrig**, C. Rio and L. Auger, 2026: Mesoscale convective systems in a global km-scale model: evaluation and impact on model mean state. Accepted for *Journal of Climate*.
+Chauvin, E., D. Bouniol, **R. Roehrig**, C. Rio and L. Auger, 2026: Mesoscale convective systems in a global km-scale model: evaluation and impact on model mean state. Accepted for *Journal of Climate*, **39**, 5277–5296, doi: [10.1175/JCLI-D-25-0641.1](https://doi.org/10.1175/JCLI-D-25-0641.1). [HAL](https://hal.science/hal-05727471)
 
 Groot, E., H. Christensen, X. Sun, K. Newman, W. Lfarh, **R. Roehrig**, L. Bengtsson and J. Simonson, 2026: How different are deterministic physics suites when coupled to fixed model dynamics and why? *Journal of the European Meteorological Society*, **5**, 100041. doi: [10.1016/j.jemets.2026.100041](https://doi.org/10.1016/j.jemets.2026.100041)
 
