@@ -13,6 +13,8 @@ permalink: /communications/
 
 # 2026
 
+**Roehrig, R.**, et al., 2026: Nouvelles des projets TRACCS-PC6 QUINTETet PC7 IMPRESSION-ESM. *Retraite annuelle du projet TRACCS-PC5 COMPACT*, 5-7 octobre 2026, Le Poët Laval, France. [[Invited presentation]](https://sdrive.cnrs.fr/s/ZWs83YsTM7YFRjp)
+
 **Roehrig, R.**, et al., 2026: (Deep) Convection parameterization in climate models: A few perspectives. [*Journées Annuelles 2026 du GdR Défis Théoriques pour les Sciences du Climat*](https://gdr-climat2026.sciencesconf.org/), 27-29 mai 2026, Paris, France. [[Invited presentation](https://sdrive.cnrs.fr/s/Ct5weMsk4jkFZop)]
 
 **Roehrig, R.**, 2026: Quelques nouvelles d'ARPEGE-Climat. [*Assemblée Générale 2026 TRACCS-PC7 IMPRESSION-ESM*](https://traccs-pc7-impression-esm.github.io/2026/05/06/GA2026/), 5-6 mai 2026, Paris. [[PDF](https://sdrive.cnrs.fr/s/oNSqzAAWLwkPsT4)]

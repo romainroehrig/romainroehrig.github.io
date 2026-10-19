@@ -29,9 +29,15 @@ Pdf reprints of my papers are available [here](https://cloud.univ-grenoble-alpes
 ## Submitted papers and papers in revision
 <!--XX. Submitted to the *YY*, preprint on ??(https://arxiv.org/abs/).-->
 
-Séguy, R., A. Voldoire, **R. Roehrig**: Sensitivity of the climate system historical response to the piControl simulation level of equilibrium in CNRM-CM6-1. In review at *Journal of Climate*.
+Mallet, M., A. Voldoire, P. Nabat, **R. Roehrig** and F. Solmon: Total, Fast and Slow precipitation responses to dust radiative forcings over West Africa. Submitted to *Geophysical Research Letters*.
 
-Lothon, M., F. Lohou, J. Arrivé, H. Barral, J. Barrié, S. Bastin, E. Bazile, E. Bernard, Y. Bezombes, A. Brut, G. Canut, C. Ciais, J. Capo, F. Cheruy, J.-M. Cohard, C. Coulaud, J. Couzinier, F. Couvreux, J. Darrozes, S. Derrien, S. Dupont, J.-B. Estrampes, J.-C. Etienne, P. Fanise, O. Garrouste, M. Ghirardelli, F. Granouillac, M. Grulois, M. Irvine, J. A. Jimenez-Rincon, M. Jomé, S. T. Kral, S. Lafont, B. Mercier, P. Orthiz, A. Philibert, E. Pique, J. Reuder, C. Roman-Cascon, **R. Roehrig**, M. Sastre, A. Seeling, Y. Seity, F. Starck, P. Tiengou, C. Vegas-Canas, A. Vial, C. Yagüe, M. Zouzoua, G. Ramillien and L. Menjot: Documenting the role of surface heterogeneities on the atmosphere surface layer at different spatio-temporal scales. Submitted to *Journal of the European Meteorological Society*.
+Sanogo, S. P. Peyrillé and **R. Roehrig**: Response of the Seasonal Cycle of Total and Extreme Precipitation in West Africa to the Atlantic Equatorial Mode: Insights from a Calibrated Configuration of ARPEGE-Climat. Submitted to *Climate Dynamics*.
+
+Raynal, P.-A., B. Marticorena, J.-L. Rajot, **R. Roehrig** and C. Pierre: 60 years of wind erosion in Sahelian croplands. Part 1: Land use and management trajectories in the Senegalese groundnut basin since 1960. In review at *Land Degradation & Development*.
+
+Raynal, P.-A., B. Marticorena, J.-L. Rajot, **R. Roehrig** and C. Pierre: 60 years of wind erosion in Sahelian croplands. Part 2: The effect of land use and land management under a fluctuating and semi-arid climate. In review at *Land Degradation & Development*.
+
+Séguy, R., A. Voldoire, **R. Roehrig**: Sensitivity of the climate system historical response to the piControl simulation level of equilibrium in CNRM-CM6-1. In review at *Journal of Climate*.
 
 Groot, E. H. Christensen, X. Sun, K. Newman, W. Lfarh, **R. Roehrig**, L. Bengtsson, J. Simonson, K. Williams, H. Lambert: Spin-up in humidity and temperature and its consequences for convective diagnostics: a Model Uncertainty Model Intercomparison Project experiment. Submitted to *Geoscientific Model Development*. [preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1445/)
 
